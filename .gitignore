@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 .kaiban
+
+# Environment variables
+.env
+.env.*
