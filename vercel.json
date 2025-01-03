@@ -6,8 +6,5 @@
   "outputDirectory": "dist",
   "installCommand": "npm install",
   "public": true,
-  "cleanUrls": true,
-  "env": {
-    "VITE_OPENAI_API_KEY": "@vite_openai_api_key"
-  }
+  "cleanUrls": true
 }
