@@ -5,11 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && kaiban build",
-    "lint": "eslint .",
+    "build": "vite build",
     "preview": "vite preview",
-    "kaiban": "kaiban run",
-    "kaiban:deploy": "kaiban deploy"
+    "kaiban": "kaiban run"
   },
   "dependencies": {
     "kaibanjs": "^0.13.0",
